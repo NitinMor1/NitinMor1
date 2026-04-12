@@ -47,7 +47,7 @@
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nitinmor1&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nitinmor1&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=issues" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitinmor1&theme=radical&include_all_commits=true" />
 </p>
 
