@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hi, I'm Nitin</h1>
-<h3 align="center">Flutter Developer | AI Engineer | Full-Stack Builder</h3>
+
+<h3 align="center">
+Flutter Developer | Full-Stack Explorer | AI-Powered Application Builder
+</h3>
 
 <p align="center">
   <img width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -8,77 +11,127 @@
 ---
 
 ## 🌍 About Me
-- 🇮🇳 Based in India  
-- 🏢 Software Developer @ **Medoc Health Private Limited**  
-- 🧠 Building **AI-powered applications & scalable Flutter systems**  
-- 🧩 Creator of **face_recognition_kit (Flutter SDK)**  
-- 🚀 Focused on **Computer Vision + Full Stack Development**  
+
+- 🇮🇳 Developer based in India
+- 💻 Software Engineer at **Medoc Health Private Limited**
+- 📱 Specialized in building scalable applications using **Flutter & Dart**
+- ⚙️ Experienced in connecting frontend applications with backend systems and APIs
+- 🤖 Interested in integrating AI capabilities into real-world products
+- 🛠️ Passionate about building developer tools and open-source solutions
+
+I enjoy creating complete software experiences — from designing user interfaces and application architecture to backend integrations and intelligent features.
 
 ---
 
-## 🔗 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/nitin-mor-4a22882b7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:nitinnitin29895@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white">
-  </a>
+# 💼 Experience
+
+## 🚀 Software Engineer — Medoc Health Private Limited
+
+Working on healthcare applications used in real-world hospital workflows.
+
+Key areas:
+
+- 📱 Building Flutter applications for mobile and web platforms
+- 🏗️ Designing scalable frontend architectures
+- 🔐 Implementing role-based access control systems
+- 🌐 Integrating REST APIs and backend services
+- 🏥 Developing workflows across OPD, IPD, Pharmacy, Inventory, and clinical modules
+- ⚡ Improving application performance, usability, and maintainability
+
+
+---
+
+# 🛠 Tech Stack
+
+## 🎨 Frontend Development
+
+Flutter • Dart • React • HTML • CSS
+
+
+## ⚙️ Backend & APIs
+
+Node.js • Express.js • REST APIs • Firebase • SQL
+
+
+## 🤖 AI & Intelligent Systems
+
+AI API Integration • Computer Vision • Automation Workflows
+
+
+## 🔧 Tools & Platforms
+
+Git • GitHub • CI/CD • Cloud Services
+
+
+---
+
+# 🚀 Projects
+
+## 🔐 ProctorAI — AI Remote Proctoring Platform
+
+**Flutter | Node.js | AI Integration | Computer Vision**
+
+An AI-powered examination monitoring platform focused on secure online assessments.
+
+Features:
+
+- 👤 Face verification and authentication
+- 🎥 Real-time camera monitoring
+- ⚠️ Suspicious activity detection
+- 🔄 Flutter frontend with backend API communication
+- 🤖 AI-powered monitoring workflows
+
+
+---
+
+## 🔍 DevLens — Flutter & Dart Dependency Explorer
+
+**Dart | Flutter Developer Tools | CLI**
+
+An open-source tool that helps developers understand Flutter project architecture and dependency relationships.
+
+Features:
+
+- 🚀 Scans Flutter project files automatically
+- 🔗 Maps package and relative imports
+- 🧩 Analyzes file dependencies
+- 🏗️ Identifies architectural layers like Screens, Blocs, Repositories, Models
+- 📊 Generates dependency graph data
+- ⚡ Simple CLI-based developer workflow
+
+Future goals:
+
+- Interactive architecture visualization
+- Advanced dependency insights
+- Large-scale project analysis
+
+
+---
+
+# 🧠 Currently Exploring
+
+- System Design
+- Scalable Software Architecture
+- Backend Engineering
+- AI Integration Patterns
+- Developer Productivity Tools
+
+
+---
+
+# 📊 GitHub Stats
+
+<p align="left">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitinmor1&theme=radical" />
 </p>
 
----
-
-## 💼 Current Work
-- 💻 Software Developer @ **Medoc Health IT Pvt Ltd**  
-- 🔐 Working on **AI-based Proctoring & Biometric Systems**  
-- 📱 Building scalable **Flutter + Backend applications**
 
 ---
 
-## 🚀 Featured Projects
+# ⚡ What Makes Me Different
 
-### 🔐 ProctorAI – AI Remote Proctoring System  
-**Flutter | AI | Computer Vision**  
-- Real-time **exam monitoring system** with AI detection  
-- 👤 Face authentication using biometric recognition  
-- ⚠️ Detects cheating (multiple faces, absence, movement)  
-- 🎥 Live camera-based behavior tracking  
-- 🔗 Integrated with backend APIs for logging & alerts  
-
----
-
-### 🧩 face_recognition_kit (Flutter SDK)  
-**Flutter | Machine Learning | SDK Development**  
-- Custom-built **Face Recognition SDK for Flutter**  
-- 🧠 192D biometric vector matching for high accuracy  
-- 🎯 Real-time face detection & authentication  
-- 🔄 Works across Android, iOS & Web  
-- ⚡ Plug-and-play components for fast integration  
-
----
-
-## 💻 Tech Stack
-
-### 🚀 Languages
-Dart • JavaScript • Python • C++ • HTML • CSS  
-
-### ⚙️ Frameworks & Tools
-Flutter • React • Node.js • Firebase • REST APIs  
-
-### 🧠 Specialization
-Computer Vision • AI Integration • Biometric Systems  
-
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nitinmor1&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitinmor1&theme=radical" />
-</p> 
-
----
-
-## ⚡ What Makes Me Different
-- 🧩 I build **custom SDKs**, not just apps  
-- 🧠 Strong focus on **AI + real-world systems**  
-- 🚀 Experience with **production-level architecture**  
+- 📱 Strong focus on Flutter application development
+- ⚙️ Understanding of complete product development lifecycle
+- 🤖 Combining software engineering with AI capabilities
+- 🛠️ Building tools that improve developer productivity
+- 🚀 Passionate about creating scalable and meaningful products
