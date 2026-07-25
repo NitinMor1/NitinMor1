@@ -7,9 +7,7 @@ Flutter Developer | Full-Stack Explorer | AI-Powered Application Builder
 <p align="center">
   <img width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nitinmor1&label=Profile+Views&color=orange&style=for-the-badge" />
-</p>
+
 ---
 
 ## 🌍 About Me
