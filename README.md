@@ -118,14 +118,15 @@ Future goals:
 
 
 ---
-
 # 📊 GitHub Stats
 
 <p align="left">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitinmor1&theme=radical" />
+  <img
+    width="48%"
+    src="https://streak-stats.demolab.com/?user=NitinMor1&theme=radical"
+    alt="GitHub Streak Stats"
+  />
 </p>
-
-
 ---
 
 # ⚡ What Makes Me Different
